@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BorgerKong</string>
+    <string name="action_settings">Settings</string>
+    <string name="menuitemimage">menuItemImage</string>
+    <string name="viewOrder">View Order</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="addOrder">Add Order</string>
+</resources>
